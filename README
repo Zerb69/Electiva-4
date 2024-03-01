@@ -3,3 +3,6 @@ edicion a nivel pagina web y CSS es despreciable (personalmente) asi que me nos 
 
 Lo destacable del proyecto es la disponibilidad de poder realizar actualizaciones a nivel CRUD en un servicio web
 la cual se actualizara en vivo en la base de datos de Firebase vinculada.
+
+Lamentablemente no busque como deslpegar la aplicacion con el hosting de firebase, voy a ver si logro hacerlo de aqui a mañana pero mientras tanto para ver el programa en accion 
+utilice la exstension de LiveServer si esta utilizando VSC, me disculpo por el inconveniente
